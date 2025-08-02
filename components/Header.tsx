@@ -14,7 +14,7 @@ const Header = () => {
           height={32}
           width={64}
         />
-        <div>
+        <div className='hidden lg:block'>
           <ul className='flex gap-2'>
             {navLinksA.map((nav, index) => (
               <li

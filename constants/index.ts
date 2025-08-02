@@ -20,3 +20,33 @@ export const navLinksA = [
     url: '#contact',
   },
 ]
+
+export const happyUsers = [
+  {
+    img: '',
+    fallback: 'Jk'
+  },
+  {
+    img: '',
+    fallback: 'Fc'
+  },
+  {
+    img: '',
+    fallback: 'Be'
+  },
+  {
+    img: '',
+    fallback: 'Ow'
+  },
+]
+
+export const stats = [
+  {
+    numbers: '250',
+    data: 'Videos that reach a wide audience and give a lasting impression'
+  },
+  {
+    numbers: '800',
+    data: 'Hours watched, engaging storytelling that captivates viewers'
+  },
+]
